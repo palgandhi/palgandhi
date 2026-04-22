@@ -16,6 +16,14 @@ I am always open to connecting with driven engineers, architects, and innovators
 * **Embedded AI:** Integrating computer vision models with microcontrollers (ESP32/Arduino) for autonomous robotics.
 * **Academics:** Deepening core computer science fundamentals and algorithm design in preparation for GATE 2027.
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=palgandhi&theme=transparent&hide_border=true&border_radius=0" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=palgandhi&show_icons=true&theme=transparent&hide_border=true&border_radius=0" alt="GitHub Stats" />
+</p>
+
 ### Technical Expertise
 
 | Domain | Technologies |
