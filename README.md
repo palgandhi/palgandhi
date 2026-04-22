@@ -1,41 +1,31 @@
-# Hi there, I'm Pal Gandhi 👋
+<h1 align="center">Pal Gandhi</h1>
+<h3 align="center">Building intelligent systems at the intersection of software and hardware.</h3>
 
-**AI & Computer Vision Developer | 3rd-Year CSE Student**
-
-I am a 3rd-year B.Tech Computer Science and Engineering student at Navrachana University with a strong focus on building intelligent systems. My work spans from crafting custom Large Language Models (LLMs) and advanced computer vision architectures (like 3D Gaussian Splatting and YOLO) to bridging the gap between AI software and embedded hardware. 
-
-Whether I'm developing scalable B2B architectures or prototyping custom robotics on my Anycubic 3D printer, I love building products from the ground up.
-
-### 🚀 What I'm Currently Up To
-* 🌍 **Building Atlas AI:** Developing a robust, self-hosted B2B lead generation system for agencies and developers. *(Independent Enterprise Project)*
-* 🤖 **Exploring Robotics:** Designing and prototyping hardware-integrated AI, including assistive tech and autonomous robots using ESP32, Arduino, and custom 3D-printed components.
-* 📚 **Core CS Focus:** Deepening my foundational computer science knowledge and preparing for the GATE CSE 2027 exam.
-
-### 🏆 Featured Experience & Projects
-* **Microsoft Imagine Cup:** Built a collaborative, multi-model AI platform combining the functionality of an IDE with real-time communication.
-* **Smart India Hackathon (SIH):** Developed a computer vision solution utilizing drone imagery for automated construction progress monitoring.
-* **Seek:** Engineered a full-stack book-trading mobile application using Flutter and Firebase.
-
-### 💻 Tech Stack & Tools
-**AI, ML & Data:**
-* Python, FastAPI
-* Computer Vision (YOLO, NeRF, 3D Gaussian Splatting)
-* LLMs & Vision-Language Models (VLMs)
-
-**Web & Mobile Development:**
-* React.js
-* Flutter & Dart
-* Firebase
-
-**Hardware & Systems:**
-* C++ (Embedded)
-* ESP32, Arduino Microcontrollers
-* macOS Power User (Apple Silicon / Local LLM Optimization)
-* 3D Printing / Rapid Prototyping
-
-### 📫 Let's Connect
-* **LinkedIn:** [Add your LinkedIn URL here]
-* **Email:** [Add your professional email here]
+<p align="center">
+  <i>Software Engineer • AI & Computer Vision • 3rd-Year CSE</i>
+</p>
 
 ---
-*"Focusing on building things that actually matter."*
+
+I am a software engineer focused on the intersection of artificial intelligence and physical hardware. My technical foundation lies in Large Language Models, advanced computer vision, and full-stack architecture, allowing me to build comprehensive solutions from end to end. Beyond pure software development, I design and prototype custom embedded systems and autonomous robotics. I am always open to collaborating with fellow innovators to solve complex problems and build systems that scale. 
+
+I am always open to connecting with driven engineers, architects, and innovators to tackle complex technical challenges and build scalable products.
+
+### Current Initiatives
+* **Atlas AI:** Architecting a comprehensive, fully self-hosted B2B lead generation system.
+* **Embedded AI:** Integrating computer vision models with microcontrollers (ESP32/Arduino) for autonomous robotics.
+* **Academics:** Deepening core computer science fundamentals and algorithm design in preparation for GATE 2027.
+
+### Technical Expertise
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Artificial Intelligence** | Python, FastAPI, YOLO, NeRF, 3D Gaussian Splatting, Local LLMs, VLMs |
+| **Software Development** | React.js, Flutter, Dart, Firebase, System Architecture |
+| **Hardware & Edge** | C/C++, ESP32, Arduino, Rapid Prototyping (3D Printing) |
+
+### Beyond the Screen
+Outside of active development, I am an avid collector of die-cast models. I design and manufacture custom 3D-printed displays for a collection of over 50 Hot Wheels and RC cars.
+
+### Connect
+**[LinkedIn]https://www.linkedin.com/in/pal-gandhi-5a58422a9/** &nbsp;|&nbsp; **[Email]palgandhi2005@icloud.com**
