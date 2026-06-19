@@ -36,4 +36,4 @@ I am always open to connecting with driven engineers, architects, and innovators
 Outside of active development, I am an avid collector of die-cast models. I design and manufacture custom 3D-printed displays for a collection of over 50 Hot Wheels and RC cars.
 
 ### Connect
-**[LinkedIn]https://www.linkedin.com/in/pal-gandhi-5a58422a9/** &nbsp;|&nbsp; **[Email]palgandhi2005@icloud.com**
+**LinkedIn: https://www.linkedin.com/in/pal-gandhi-5a58422a9/** &nbsp;|&nbsp; **Email: palgandhi2005@icloud.com**
